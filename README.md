@@ -1,6 +1,11 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tech Stacks
+
+In this project we are using these:
+- [React JS](https://reactjs.org/docs/getting-started.html)
+- [Ant Design](https://ant.design/)
+- [Redux](https://redux.js.org/n)
+- [Tailwindcss](https://tailwindcss.com/) 
 
 ## Available Scripts
 
