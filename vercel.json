@@ -1,7 +1,7 @@
 {
     "rewrites": [
       {
-        "source": "/autocomplete:path*",
+        "source": "/autocomplete/:path*",
         "destination": "https://maps.googleapis.com/maps/api/place/:path*"
       }
     ]
