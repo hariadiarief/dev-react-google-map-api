@@ -12,7 +12,7 @@ export const getAutoCompleteLocation = (params) => (dispatch) => {
 
 
   return new Promise((resolve) => {
-    axios.get(`https://maps.googleapis.com/maps/api/place/autocomplete/json?${payload}`)
+    axios.get(`/autocomplete/json?${payload}`)
       .then((response) => {
         dispatch({
           type: "GET_AUTO_COMPLETE_LOCATION",
