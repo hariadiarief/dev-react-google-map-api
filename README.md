@@ -1,7 +1,7 @@
 
 ## Tech Stacks
 
-In this project we are using these:
+In this project are using:
 - [React JS](https://reactjs.org/docs/getting-started.html)
 - [Ant Design](https://ant.design/)
 - [Redux](https://redux.js.org/n)
