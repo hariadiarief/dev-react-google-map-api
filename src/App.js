@@ -1,7 +1,6 @@
 import { InputPlaceAutocomplete } from "./Components";
 import { useSelector } from 'react-redux';
 import { Spin } from 'antd';
-import { DotChartOutlined } from '@ant-design/icons';
 import { useEffect, useState } from "react";
 
 
